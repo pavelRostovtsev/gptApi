@@ -9,7 +9,7 @@
   },
   "require": {
     "php": "*",
-    "symfony/http-client": "^5.4",
+    "symfony/http-client": "^5.4||^6.2",
     "ext-json": "*"
   }
 }
