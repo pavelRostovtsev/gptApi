@@ -1,5 +1,7 @@
 <?php
 
+namespace RostovtsevPavel\ChatGptApi;
+
 use Symfony\Contracts\HttpClient\HttpClientInterface;
 
 class ChatGptClient
