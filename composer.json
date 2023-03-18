@@ -1,0 +1,15 @@
+{
+  "name": "rostovtsev_pavel/chat_gpt_api",
+  "description": "My library description",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "MyLibrary\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.2",
+    "symfony/http-client": "^5.4",
+    "ext-json": "*"
+  }
+}
